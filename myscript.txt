@@ -1,0 +1,6 @@
+ // Print to the console
+        console.log("Hello");
+
+        // Print to the webpage
+        document.body.innerHTML += "<p>Hello chnaged</p>";
+        
